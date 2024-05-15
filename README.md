@@ -48,6 +48,8 @@ Make sure you have the following installed:
 
    npm install -D tailwindcss postcss autoprefixer
    npx tailwindcss init -p
+
+   npm install --save typescript @types/node @types/react @types/react-dom @types/jest
    ```
 
 3. **Start the development server:**
