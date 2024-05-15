@@ -113,7 +113,7 @@ git push -u origin main
 # Delete the master branch on the remote (optional)
 git push origin --delete master
 ```
-
+<!--
 ## 🤝 Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
@@ -121,7 +121,7 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
+-->
 ## 📬 Contact
 
 If you have any questions or feedback, feel free to reach out:
