@@ -1,12 +1,11 @@
-// src/App.tsx
 import React from 'react';
-import './App.css';
-import ButtonTemplate from './components/ButtonTemplate';
+import './App.css'; // Ensure this import is correct
+import ButtonTemplates from './components/ButtonTemplate';
 
 const App: React.FC = () => {
   return (
     <div className="App">
-      <ButtonTemplate />
+      <ButtonTemplates />
     </div>
   );
 };

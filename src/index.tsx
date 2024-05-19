@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './styles/tailwind.css'; // Import Tailwind CSS
-import './index.css';
+import './styles/tailwind.css'; // Ensure this import is correct
+import './index.css'; // Ensure this import is correct
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
